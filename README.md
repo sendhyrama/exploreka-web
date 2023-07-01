@@ -8,7 +8,7 @@
 - ✅ A generic but flexible Button component
 - ✅ Automatic Sitemap
 
-## Get Started 
+## Getting Started 
 
 Customize the global site settings such as the title and description in the `src/data/settings.ts` file
 
