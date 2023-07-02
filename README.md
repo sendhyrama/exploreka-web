@@ -12,7 +12,7 @@
 
 Customize the global site settings such as the title and description in the `src/data/settings.ts` file
 
-Set your own social profile links and icons in the `src/data/socials.ts` files
+Set your own social profile links and icons in the `src/data/socials.ts` file
 
 OR
 
